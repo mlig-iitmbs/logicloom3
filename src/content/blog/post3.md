@@ -2,7 +2,7 @@
 title: "LogicLooM Milestones: A Seamless and Impactful Journey"
 description: "With over 600 registrations, a flawless participant portal and inspiring workshops by eminent professors, LogicLooM set new standards for excellence and transparency. The countdown to the next edition has begun!"
 pubDate: "Dec 22 2024"
-heroImage: "/blog3.png"
+heroImage: "/logicloom3/blog3.png"
 badge: "Achievements"
 tags: ["2.0"]
 ---
