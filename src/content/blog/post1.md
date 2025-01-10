@@ -2,7 +2,7 @@
 title: "LogicLooM: Success Stories You Can't Miss! From 18 to 64, we inspired all"
 description: "With 600+ participants on campus, the latest edition of LogicLooM at Paradox '24 challenged minds in programming, AI, and ML, blending innovation and creativity for an electrifying contest."
 pubDate: "Dec 22 2024"
-heroImage: "/blog1.png"
+heroImage: "/logicloom3/blog1.png"
 badge: "Feedback"
 tags: ["2.0","ai","ml"]
 ---
